@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 from rich.progress import Progress, BarColumn, TimeRemainingColumn, TextColumn
 from rich.console import Console
 
-from state import save_state, clear_state
-from notifier import beep, notify_timeup_on_cli
+from .state import save_state, clear_state
+from .notifier import beep, notify_timeup_on_cli
 
 console = Console()
 
