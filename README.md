@@ -118,11 +118,8 @@ python run_timer.py 60 --background
 ---
 
 ## 📜 ライセンス — MIT
-
-```
 MIT License
 詳しくは、 LICENSE ファイルをご覧ください。
-```
 
 ## 🙌 コントリビューション
 PR・Issue を歓迎します。  
