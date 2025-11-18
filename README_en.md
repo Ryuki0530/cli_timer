@@ -117,12 +117,8 @@ Runs silently in the background.
 ---
 
 ## 📜 License — MIT
-
-```
 MIT License
 See the LICENSE file for details.
-```
-
 ---
 
 ## 🙌 Contributions
